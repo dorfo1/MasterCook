@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_geladeira"
+        android:icon="@drawable/ic_geladeira"
+        android:title="@string/title_geladeira" />
+
+    <item
+        android:id="@+id/navigation_receitas"
+        android:icon="@drawable/ic_recipe"
+        android:title="@string/title_receitas" />
+
+    <item
+        android:id="@+id/navigation_favoritos"
+        android:icon="@drawable/ic_favorito"
+        android:title="@string/title_favoritos" />
+
+    <item android:id="@+id/navigation_perfil"
+        android:icon="@drawable/ic_perfil"
+        android:title="@string/title_perfil"/>
+
+</menu>

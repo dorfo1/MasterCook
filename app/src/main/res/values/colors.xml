@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#939BA6</color>
+    <color name="colorPrimary">#A3ADB7</color>
+    <color name="colorPrimaryLight">#BDC5CC</color>
+    <color name="colorAccent">#1AA9FD</color>
+    <color name="colorWhite">#f5f5f5</color>
+    <color name="btnGradientMid">#17ABFD</color>
+    <color name="btnGradientDark">#4188F4</color>
+    <color name="textPrimary">#373737</color>
+    <color name="textSecundary">#9CA4B0</color>
+</resources>

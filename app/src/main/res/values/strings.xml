@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MasterCook</string>
+    <string name="title_geladeira">Geladeira</string>
+    <string name="title_receitas">Receitas</string>
+    <string name="title_favoritos">Favoritos</string>
+    <string name="title_perfil">Perfil</string>
+
+
+    <string name="tab_saudavel">Sáudavel</string>
+    <string name="tab_todas">Todas</string>
+    <string name="tab_novidades">Novidades</string>
+    <string name="tab_populares">Populares</string>
+    <string name="tab_italiana">Italiana</string>
+    <string name="tab_japonesa">Japonesa</string>
+
+
+
+</resources>
